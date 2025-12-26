@@ -1,0 +1,11 @@
+name: ml310
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - ipykernel
+  - seaborn
+  - matplotlib
+  - numpy
+  - pandas
+prefix: D:\Anaconda\envs\ml310
